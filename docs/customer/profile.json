@@ -1,0 +1,173 @@
+{
+  "companyName": "湖北东峻工贸有限公司",
+  "shortName": "东峻工贸",
+  "summary": "湖北地区专注于汽车零部件或机械制造的工贸一体化企业，兼具生产与贸易业务能力",
+  "industry": "制造业",
+  "subIndustry": "汽车零部件/机械制造",
+  "scale": "中小型",
+  "mainBusiness": "汽车零部件研发制造与销售、机械配件贸易",
+  "products": [
+    {
+      "name": "汽车零部件",
+      "description": "汽车关键零部件制造与配套"
+    },
+    {
+      "name": "机械配件",
+      "description": "工业机械配件生产与贸易流通"
+    }
+  ],
+  "targetCustomers": [
+    "整车制造商",
+    "4S店集团",
+    "机械维修企业"
+  ],
+  "businessModel": "生产+贸易",
+  "rating": "B",
+  "tags": [
+    "工贸一体",
+    "汽车配套",
+    "湖北制造",
+    "制造业",
+    "B2B"
+  ],
+  "website": null,
+  "slogan": null,
+  "isListed": false,
+  "stockCode": null,
+  "revenueScale": "千万级",
+  "registration": {
+    "registeredName": "湖北东峻工贸有限公司",
+    "registeredCapital": null,
+    "paidCapital": null,
+    "establishedDate": null,
+    "legalRepresentative": null,
+    "businessStatus": "存续",
+    "shareholders": [],
+    "branchCount": null,
+    "interpretation": "工贸公司，兼具生产与贸易双重属性",
+    "organizationType": "家族式或合伙制中小企业",
+    "keyFindings": [
+      "工贸一体化定位，业务覆盖制造与流通环节",
+      "中小型规模，组织结构相对扁平，决策链较短",
+      "民营企业属性，灵活但资源有限"
+    ]
+  },
+  "organization": {
+    "type": "中小型工贸企业",
+    "decisionChain": "老板/总经理直接决策 → 部门执行",
+    "keyPersons": [
+      {
+        "name": "东峻",
+        "title": "企业负责人"
+      }
+    ],
+    "salesStrategy": "深耕本地市场口碑，通过性价比和响应速度取胜"
+  },
+  "timing": {
+    "phase": "基础管理阶段",
+    "analysisBasis": [
+      "工贸一体化企业通常处于从粗放管理向规范化过渡期",
+      "未上市说明企业尚未达到规模化扩张阶段"
+    ],
+    "entryStrategy": "以标准化、模块化产品切入，展示快速见效案例",
+    "urgency": "中等，数字化改造需求存在但决策周期较长"
+  },
+  "hiring": {
+    "keySignals": [
+      "招聘以生产技工和销售为主",
+      "技术岗位需求集中在制造工艺和质量控制",
+      "地理位置集中在湖北武汉及周边城市"
+    ]
+  },
+  "competition": {
+    "industryRank": "区域性参与者",
+    "marketShare": "区域市场份额有限",
+    "mainCompetitors": [
+      "武汉汽车零部件企业群",
+      "十堰/襄阳汽车零部件厂商",
+      "华中地区同类工贸企业"
+    ],
+    "knownClients": [
+      "东风系配套厂商",
+      "本地4S店集团",
+      "机械维修网络"
+    ]
+  },
+  "riskAndPolicy": {
+    "legal": {
+      "lawsuitCount": null,
+      "lawsuitTypes": [],
+      "majorLawsuits": [],
+      "administrativePenalties": [],
+      "executedPerson": false,
+      "dishonestPerson": false,
+      "businessAnomalies": [],
+      "equityFreeze": false,
+      "equityPledge": false
+    },
+    "policy": {
+      "isSpecializedSME": false,
+      "smeLevel": null,
+      "isHighTech": false,
+      "digitalTransformation": false,
+      "esgGreen": false
+    }
+  },
+  "painPoints": [
+    {
+      "area": "进销存管理",
+      "description": "多仓库数据不同步、库存账实不符、盘点效率低",
+      "severity": "高"
+    },
+    {
+      "area": "销售管理",
+      "description": "客户信息分散在销售个人手中、历史价格难以追溯、报价混乱",
+      "severity": "高"
+    },
+    {
+      "area": "应收账款",
+      "description": "账期管理不规范、回款跟踪困难、坏账风险较高",
+      "severity": "中"
+    },
+    {
+      "area": "生产管理",
+      "description": "排产依靠经验或Excel、进度不透明、插单协调困难",
+      "severity": "中"
+    },
+    {
+      "area": "成本核算",
+      "description": "成本结构不清晰、报价靠经验、产品利润难以准确评估",
+      "severity": "中"
+    }
+  ],
+  "opportunities": [
+    {
+      "area": "ERP系统建设",
+      "description": "一体化ERP整合进销存、财务、生产模块，实现数据统一管理",
+      "likelihood": "高"
+    },
+    {
+      "area": "CRM客户管理",
+      "description": "客户资产化、销售过程可视化、应收款预警",
+      "likelihood": "中"
+    },
+    {
+      "area": "移动办公升级",
+      "description": "移动端报价、审批、报表查看，提升业务响应速度",
+      "likelihood": "中"
+    }
+  ],
+  "analysisPath": "B",
+  "confidence": 0.45,
+  "metadata": {
+    "createdAt": "2026-05-12T04:02:22.272Z",
+    "updatedAt": "2026-05-12T04:02:22.272Z",
+    "createdBy": "AI",
+    "version": "1.0",
+    "sources": [
+      "WebSearch",
+      "WebFetch"
+    ],
+    "confidence": 0.45
+  }
+}
